@@ -1,0 +1,11 @@
+/home/alena/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/1.dir
+/home/alena/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/2.dir
+/home/alena/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/3.dir
+/home/alena/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/4.dir
+/home/alena/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/5.dir
+/home/alena/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/6.dir
+/home/alena/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/7.dir
+/home/alena/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/10.dir
+/home/alena/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/11.dir
+/home/alena/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alena/CLionProjects/OpenMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
